@@ -30,7 +30,7 @@
    :nearest 1})
 
 (def ^:private phaser-constants
-  {:version          "2.4.2"
+  {:version          "2.8.2"
    :auto             0
    :canvas           1
    :webgl            2
